@@ -37,11 +37,13 @@ In order to answering the following business understanding question below, we wi
 ## Files Uploaded in Repository
 ---
 
-The following are all file/data that could be found at the repository.
+The following are all file/data that needed for this project.
 
 1. Jupyter Notebook (project_04_write_ds_blog_post.ipynb) -  codings for each steps of CRISP-DM (Cross Industry Process for Data Mining)
 2. Stack Overflow data - 2017 survey data (survey_results_public.csv) -  raw data for the data analysis and modelling
 3. Raw Data Description (survey_results_schema.csv) - the description/questions of all features/columns of raw data
+
+`Note:` Due to large file size, please download Stack Overflow data - 2017 survey data at https://insights.stackoverflow.com/survey
 
  ## Summary of the results of analysis
 ---
