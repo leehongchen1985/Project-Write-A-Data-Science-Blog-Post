@@ -43,7 +43,7 @@ The following are all file/data that needed for this project.
 2. Stack Overflow data - 2017 survey data (survey_results_public.csv) -  raw data for the data analysis and modelling
 3. Raw Data Description (survey_results_schema.csv) - the description/questions of all features/columns of raw data
 
-`Note:` Due to large file size, please download Stack Overflow data - 2017 survey data at https://insights.stackoverflow.com/survey
+`Note:` Due to large file size, please download Stack Overflow data - 2017 survey data at [here](https://insights.stackoverflow.com/survey)
 
  ## Summary of the results of analysis
 ---
