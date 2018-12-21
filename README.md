@@ -53,6 +53,8 @@ In this analysis, we found the following answers for the respective business que
 2. Answer for Question 2 - The proportion of Employed full-time is higher than another employment status if the person who have programming language skillsets. Besides that, a majority of programmer enjoy their programming works, especially program as hobby, followed by program for both (hobby & contribute to open source prohjects) and program to contribute to open source projects only.
 3. Answer for Question 3 - Random Forest Model with 0.84 of accurancy score and 0.91 of F1 score had been setup. In addition, Employment status appears to be one of the top indicators for an individual enjoyability. Professional Status and Formal Education are another important indicators for the enjoyability of programmer.
 
+For more information about this project, you also refer to my Medium at [here](https://medium.com/@leehongchen/what-is-the-most-used-programming-language-in-2017-d3f5840b9f63)
+
  ## Acknowledgement
 ---
 I couldn’t have finish this project without the help of a lot of people. I’d like to thank the Udacity instructors and the rest of the Udacity staff for their invaluable help. Thanks to my project mentors, for great suggestions, edits, and support.
