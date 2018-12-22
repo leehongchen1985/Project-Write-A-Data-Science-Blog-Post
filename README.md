@@ -1,4 +1,4 @@
-# Project-Write-A-Data-Science-Blog-Post
+# What is the most used programming languege in 2017
 
 ## Project Introduction
 ---
@@ -27,7 +27,7 @@ The following python tools/module packages is needed for this study.
 ---
 In order to answering the following business understanding question below, we will preform data science process on Stackoverflow survey data (in 2017) to get some insight into each of these questions. Below presents the column needed for analysis/modelling prediction of each questions:
 
-1. Is Python the most used programming language in 2017?
+1. What is the most used programming languege in 2017?
     - HaveWorkedLanguage
 2. What are the employment status and enjoyability (ProgramHobby) of those who have programming skillsets?
     - EmploymentStatus, ProgramHobby
